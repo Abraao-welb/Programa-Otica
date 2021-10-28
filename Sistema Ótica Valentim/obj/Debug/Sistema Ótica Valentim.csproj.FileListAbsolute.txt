@@ -1,0 +1,18 @@
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\Sistema Ótica Valentim.exe.config
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\Sistema Ótica Valentim.exe
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\Sistema Ótica Valentim.pdb
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.Properties.Resources.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema Ótica Valentim.csproj.GenerateResource.Cache
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema Ótica Valentim.exe
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema Ótica Valentim.pdb
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_Menu.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema Ótica Valentim.csprojResolveAssemblyReference.cache
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_categorias.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_produtos.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_cad_cliente.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_cs_cliente.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\ClassLibrary1.dll
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.login.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\obj\Debug\Sistema_Ótica_Valentim.frm_caixa.resources
+C:\Users\Sou Proa\Desktop\Sistema Ótica\Sistema Ótica Valentim\bin\Debug\Database1.sdf

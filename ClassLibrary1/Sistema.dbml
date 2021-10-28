@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_sistema" Class="SistemaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=db_sistema;Integrated Security=True" SettingsObjectName="ClassLibrary1.Properties.Settings" SettingsPropertyName="db_sistemaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_categoria" Member="categorias">
+    <Type Name="categoria">
+      <Column Name="id_categoria" Member="Codigo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="desc_categoria" Member="Descricao" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tb_categoria_tb_produto" Member="produtos" ThisKey="Codigo" OtherKey="CodigoCategoria" Type="produto" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_produto" Member="produtos">
+    <Type Name="produto">
+      <Column Name="id_produto" Member="Codigo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="desc_produto" Member="Descricao" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="valor" Type="System.Decimal" DbType="Decimal(25,2)" CanBeNull="true" />
+      <Column Name="id_categoria" Member="CodigoCategoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tb_categoria_tb_produto" Member="categoria" ThisKey="CodigoCategoria" OtherKey="Codigo" Type="categoria" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_cliente" Member="clientes">
+    <Type Name="cliente">
+      <Column Name="id_cliente" Member="codigo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Telefone" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="[Dados do Cliente]" Member="Dados" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema Ótica Valentim", "Sistema Ótica Valentim.csproj", "{EC9CE8D6-E353-43B2-B1FC-422E80E2E0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema.DAL", "..\ClassLibrary1\sistema.DAL.csproj", "{58DA94CB-E2E7-4267-89C3-ABF7EC765411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9CE8D6-E353-43B2-B1FC-422E80E2E0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9CE8D6-E353-43B2-B1FC-422E80E2E0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9CE8D6-E353-43B2-B1FC-422E80E2E0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9CE8D6-E353-43B2-B1FC-422E80E2E0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DA94CB-E2E7-4267-89C3-ABF7EC765411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA94CB-E2E7-4267-89C3-ABF7EC765411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA94CB-E2E7-4267-89C3-ABF7EC765411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA94CB-E2E7-4267-89C3-ABF7EC765411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

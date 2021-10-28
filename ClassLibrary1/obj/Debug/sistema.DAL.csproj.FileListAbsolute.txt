@@ -1,0 +1,5 @@
+C:\Users\Sou Proa\Desktop\Sistema Ótica\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sou Proa\Desktop\Sistema Ótica\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sou Proa\Desktop\Sistema Ótica\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sou Proa\Desktop\Sistema Ótica\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sou Proa\Desktop\Sistema Ótica\ClassLibrary1\obj\Debug\sistema.DAL.csprojResolveAssemblyReference.cache
